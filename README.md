@@ -2,7 +2,7 @@
 
 Type `f` in your command line to pay respects.
 
-<img src="assets/pepe.jpg" width="300" alt="Pepe presses f" />
+<img src="https://github.com/anthonykrivonos/pay-respects/blob/main/assets/pepe.jpg?raw=true" width="300" alt="Pepe presses f" />
 
 ## Installation
 
